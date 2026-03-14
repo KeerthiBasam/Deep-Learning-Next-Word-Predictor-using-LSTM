@@ -149,7 +149,3 @@ This project demonstrates practical understanding of:
 
 ---
 
-# Author
-
-Machine Learning / AI Developer  
-Focused on NLP, Deep Learning, and AI application development.
